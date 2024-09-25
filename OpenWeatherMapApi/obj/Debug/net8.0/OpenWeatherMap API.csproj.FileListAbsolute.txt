@@ -1,0 +1,18 @@
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/bin/Debug/net8.0/appsettings.json
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/bin/Debug/net8.0/OpenWeatherMap API
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/bin/Debug/net8.0/OpenWeatherMap API.deps.json
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/bin/Debug/net8.0/OpenWeatherMap API.runtimeconfig.json
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/bin/Debug/net8.0/OpenWeatherMap API.dll
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/bin/Debug/net8.0/OpenWeatherMap API.pdb
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeatherMap API.csproj.AssemblyReference.cache
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeatherMap API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeatherMap API.AssemblyInfoInputs.cache
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeatherMap API.AssemblyInfo.cs
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeatherMap API.csproj.CoreCompileInputs.cache
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeat.308761C4.Up2Date
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeatherMap API.dll
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/refint/OpenWeatherMap API.dll
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeatherMap API.pdb
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/OpenWeatherMap API.genruntimeconfig.cache
+/Users/jasonbrezenski/Desktop/repos/OpenWeatherMap API/OpenWeatherMap API/obj/Debug/net8.0/ref/OpenWeatherMap API.dll
